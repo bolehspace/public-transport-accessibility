@@ -1,6 +1,6 @@
 **Introduction**
 
-This is a of between Boleh Space in providing an inclusive public transportation system in Malaysia. Feel free to create a pull request and suggestion.
+This is a  project of  Boleh Space in providing an inclusive public transportation system in Malaysia. Feel free to create a pull request and suggestion.
 
 **To-do List (Production)**
 
