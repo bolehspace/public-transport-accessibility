@@ -9,8 +9,10 @@ This is a  project of  Boleh Space in providing an inclusive public transportati
  3. Include MRT1,MRT2, KTM, Monorail and Bus (coming soon).
 
 **Update (Development )** 
+You may view the site under development here:
 
-You can view the [site under development](https://bolehspace.github.io/public-transport-accessibility-report/) here. 
+[v0.1](https://transport.bolehlab.com/index01.html)
+[v0.2](https://transport.bolehlab.com/index02.html)
 
  1.  A new template was added with the functionality of DataTable .  You may refer to new [index.html](https://github.com/bolehspace/public-transport-accessibility-report/blob/main/v0.2/index.html) file. 
 
